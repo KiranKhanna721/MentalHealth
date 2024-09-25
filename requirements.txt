@@ -6,7 +6,8 @@ safetensors==0.4.5
 scikit-learn==1.5.2
 scipy==1.14.1
 seaborn==0.13.2
-snowflake-connector-python
-snowflake-snowpark-python
+snowflake-snowpark-python "openai>=1.0.0"
 tokenizers==0.19.1
 transformers==4.44.2
+streamlit>=1.28.2
+
