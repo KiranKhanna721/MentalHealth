@@ -1,11 +1,6 @@
 huggingface-hub==0.25.1
 joblib==1.4.2
-kiwisolver==1.4.7
 matplotlib==3.9.2
-mkl-service==2.4.0
-protobuf==4.25.3
-pyparsing==3.1.4
-pywin32==305.1
 regex==2024.9.11
 safetensors==0.4.5
 scikit-learn==1.5.2
@@ -13,7 +8,5 @@ scipy==1.14.1
 seaborn==0.13.2
 snowflake-connector-python
 snowflake-snowpark-python
-threadpoolctl==3.5.0
 tokenizers==0.19.1
 transformers==4.44.2
-webencodings==0.5.1
