@@ -39,7 +39,7 @@ scipy==1.14.1
 six==1.16.0
 smmap==5.0.1
 snowflake-connector-python==3.12.2
-snowflake-snowpark-python==1.22.1
+snowflake-snowpark-python
 sortedcontainers==2.4.0
 streamlit==1.38.0
 tenacity==8.5.0
